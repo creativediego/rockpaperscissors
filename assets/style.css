@@ -1,0 +1,15 @@
+    .jumbotron {
+        padding: 4rem;
+    }
+    
+    .score-bar {
+        padding: 1rem 0;
+    }
+    
+    img {
+        margin: auto;
+    }
+    
+    .play-bar {
+        padding: 1rem 2rem;
+    }
